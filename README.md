@@ -7,3 +7,7 @@
 - Axon doesn't touch the Dendrites
 
 ## Activation Function :
+- Sigmoid Function 
+- Threshold Function 
+- Rectifier Function
+- Hyperbolic Tangent Function
