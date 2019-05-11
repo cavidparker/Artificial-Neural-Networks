@@ -5,3 +5,5 @@
 
 - Dendrites are receiver of the signal axon the neuron and axon is the transmit of the signal for the neuron
 - Axon doesn't touch the Dendrites
+
+## Activation Function :
