@@ -11,3 +11,6 @@
 - Threshold Function 
 - Rectifier Function
 - Hyperbolic Tangent Function
+
+## Cost Function :
+- C = 1/2(Actual Value - OutPut Value)^2
