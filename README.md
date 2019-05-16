@@ -18,3 +18,4 @@
 - Need to be cost function to be very minimum or zero.
 
 ## Backpropagation :
+- Its means adjust the Weight(W) simultiniously
