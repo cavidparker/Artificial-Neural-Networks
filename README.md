@@ -19,3 +19,6 @@
 
 ## Backpropagation :
 - Its means adjust the Weight(W) simultiniously.
+
+## Add Hidden Layer :
+- classifier.add(Dense(output_dim = 6, init = 'uniform', activation = 'relu', input_dim = 11))
