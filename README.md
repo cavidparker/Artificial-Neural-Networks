@@ -22,4 +22,5 @@
 
 ## Add Hidden Layer :
 - classifier.add(Dense(output_dim = 6, init = 'uniform', activation = 'relu', input_dim = 11))
-- output_dim = Simply the number of nodes you want to add this hidden layer.
+- output_dim = Simply the number of nodes you want to add this hidden layer or (input +output) / 2 or Parameter tuning 
+
