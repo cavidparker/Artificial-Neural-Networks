@@ -13,7 +13,7 @@
 - Hyperbolic Tangent Function
 
 ## Cost Function :
-- Cost function Calculate the output & Actual Value diffirence 
+- Cost function Calculate the output & Actual Value diffirence. 
 - C = 1/2(Actual Value - OutPut Value)^2
 - Need to be cost function to be very minimum or zero.
 
