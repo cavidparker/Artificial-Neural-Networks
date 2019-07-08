@@ -1,5 +1,5 @@
 # Artificial-Neural-Networks:
-Artificial Neural Networks (ANN) are the pieces of a computing system designed to simulate the way the human brain analyzes and processes information. They are the foundations of Artificial Intelligence (AI) and solve problems that would prove impossible or difficult by human or statistical standards. ANN have self-learning capabilities that enable them to produce better results as more data become available.
+Artificial neural networks are one of the main tools used in machine learning. Artificial Neural Networks (ANN) are the pieces of a computing system designed to simulate the way the human brain analyzes and processes information. They are the foundations of Artificial Intelligence (AI) and solve problems that would prove impossible or difficult by human or statistical standards. ANN have self-learning capabilities that enable them to produce better results as more data become available.
 
 - loc gets rows (or columns) with particular labels from the index.
 - iloc gets rows (or columns) at particular positions in the index (so it only takes integers).
