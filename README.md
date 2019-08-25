@@ -5,7 +5,7 @@ Artificial neural networks are one of the main tools used in machine learning. A
 - iloc gets rows (or columns) at particular positions in the index (so it only takes integers).
 
 - Dendrites are receiver of the signal axon the neuron and axon is the transmit of the signal for the neuron.
-- Axon doesn't touch the Dendrites
+- Axon doesn't touch the Dendrites.
 
 ## Activation Function :
 - Sigmoid Function 
