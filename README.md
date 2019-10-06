@@ -15,7 +15,7 @@ Artificial neural networks are one of the main tools used in machine learning. A
 
 ## Cost Function :
 - Cost function Calculate the output & Actual Value diffirence. 
-- C = 1/2(Actual Value - OutPut Value)^2
+- C = 1/2(Actual Value - OutPut Value)^2 .
 - Need to be cost function to be very minimum or zero.
 
 ## Backpropagation :
