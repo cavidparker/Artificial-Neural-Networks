@@ -19,7 +19,7 @@ Artificial neural networks are one of the main tools used in machine learning. A
 - Need to be cost function to be very minimum or zero.
 
 ## Backpropagation  :
-- Its means adjust the Weight(W) simultiniously.
+- Its means adjust the Weight(W) simultiniously..
 
 ## Add Hidden Layer  :
 - classifier.add(Dense(output_dim = 6, init = 'uniform', activation = 'relu', input_dim = 11))..
