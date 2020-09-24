@@ -11,7 +11,7 @@ Artificial neural networks are one of the main tools used in machine learning. A
 - Sigmoid Function 
 - Threshold Function 
 - Rectifier Function
-- Hyperbolic Tangent Function
+- Hyperbolic Tangent Function.
 
 ## Cost Function :
 - Cost function Calculate the output & Actual Value diffirence. 
